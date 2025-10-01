@@ -1,4 +1,4 @@
-# Esercizi: Crittografia Simmetrica
+# Esercizi: Crittografia
 
 Introduzione
 
